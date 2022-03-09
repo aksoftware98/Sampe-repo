@@ -5,6 +5,6 @@ Cars.Car car = new();
 car.Id = Guid.NewGuid().ToString(); 
 car.Name = "BMW";
 
-Console.WriteLine("Welcome new car");
+Console.WriteLine("Welcome to your new car");
 
 // Start the new notifications system 
