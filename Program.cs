@@ -5,3 +5,4 @@ Cars.Car car = new();
 car.Id = Guid.NewGuid().ToString(); 
 car.Name = "BMW";
 
+Console.WriteLine("Welcome new car");
